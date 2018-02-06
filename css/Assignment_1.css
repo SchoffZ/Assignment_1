@@ -2,6 +2,9 @@ body{
 	font-family: Verdana, Arial, sans-serif;
 	background-color: #FFFFFF;
 	color: #666666;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
 	}
 header{
 	background-color: #000033;
